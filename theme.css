@@ -10,3 +10,7 @@
 .notion-gallery-view div[style*="display: grid;"] > div:last-child{
     display: none!important;
 }
+
+body{
+    background-color: aquamarine !important;
+}
