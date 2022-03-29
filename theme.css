@@ -8,5 +8,5 @@
 ==/UserStyle== */
 
 .notion-gallery-view div[style*="display: grid;"] > div:last-child{
-    display: none;
+    display: none!important;
 }
