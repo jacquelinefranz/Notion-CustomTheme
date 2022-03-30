@@ -3,10 +3,8 @@
 }
 
 /* Dracula Update */
-.notion-dark-theme .notion-token-remove-button[role*='button'][tabindex*='0']:hover,
-.notion-dark-theme .notion-record-icon,
 .notion-dark-theme div[style*="background: rgb(25, 25, 25);"] {
-  background: transparent !important;
+  background: rgb(42, 43, 53) !important;
 }
 
 .notion-dark-theme div[style*="box-shadow: rgb(25, 25, 25) -3px 0px 0px;"]{
